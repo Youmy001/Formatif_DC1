@@ -23,3 +23,5 @@ Requis
 ------
 
 * EiffelStudio 7.2 est nécessaire pour compiler ce projet
+![Tortue](image/turtle32.png)
+
