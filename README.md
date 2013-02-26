@@ -6,7 +6,7 @@ Ce repository sert d'exemple pour l'examen formatif du cours 420-DC1-DM.
 Créateurs
 ---------
 
-* Le créateur original de ce document est Louis M.
+* Le créateur original de ce document est Tommy Teasdale.
 
 Projet EiffelTurtle
 ===============
